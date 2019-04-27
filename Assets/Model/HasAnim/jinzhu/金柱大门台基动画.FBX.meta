@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 6c59ed6ee4004bb41b04325632195ac1
+timeCreated: 1554731166
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Obj3d66-720568-1-622
+    100002: Obj3d66-720568-1-623
+    100004: Obj3d66-720568-2-759
+    100006: Obj3d66-720568-2-760
+    100008: Obj3d66-720568-3-162
+    100010: Obj3d66-720568-3-163
+    100012: Obj3d66-737675-11-482
+    100014: Obj3d66-737675-21-523
+    100016: Obj3d66-737675-22-819
+    100018: Obj3d66-737675-23-637
+    100020: Obj3d66-737675-24-999
+    100022: Obj3d66-737675-25-412
+    100024: Obj3d66-737675-26-150
+    100026: Obj3d66-737675-26-151
+    100028: Obj3d66-737675-29-326
+    100030: Obj3d66-737675-30-792
+    100032: Obj3d66-737675-34-899
+    100034: Obj3d66-737675-35-267
+    100036: Obj3d66-737675-38-630
+    100038: Obj3d66-737675-39-859
+    100040: Obj3d66-737675-4-999
+    100042: Obj3d66-737675-44-42
+    100044: Obj3d66-737675-45-470
+    100046: Obj3d66-737675-46-630
+    100048: Obj3d66-737675-48-96
+    100050: Obj3d66-737675-49-55
+    100052: Obj3d66-737675-5-296
+    100054: Obj3d66-737675-50-323
+    100056: Obj3d66-737675-6-737
+    100058: Obj3d66-737675-9-406
+    100060: Rectangle001
+    100062: Rectangle002
+    100064: Rectangle003
+    100066: "\u3000\uE813\uE811"
+    100068: "\u5BF9\u8C61002"
+    100070: "\u5BF9\u8C61003"
+    100072: "\u7EC4021"
+    100074: "\u7EC4022"
+    100076: "\u7EC4023"
+    100078: "\u7EC4024"
+    100080: "\u7EC4025"
+    100082: "\u7EC4026"
+    100084: "\u7EC4027"
+    100086: "\u7EC4028"
+    100088: "\u7EC4029"
+    100090: "\u7EC4030"
+    100092: "\u7EC4031"
+    100094: "\u7EC4032"
+    100096: "\u7EC4033"
+    100098: "\u7EC4034"
+    100100: "\u7EC4035"
+    100102: //RootNode
+    100104: "\uE814\uE812"
+    400000: Obj3d66-720568-1-622
+    400002: Obj3d66-720568-1-623
+    400004: Obj3d66-720568-2-759
+    400006: Obj3d66-720568-2-760
+    400008: Obj3d66-720568-3-162
+    400010: Obj3d66-720568-3-163
+    400012: Obj3d66-737675-11-482
+    400014: Obj3d66-737675-21-523
+    400016: Obj3d66-737675-22-819
+    400018: Obj3d66-737675-23-637
+    400020: Obj3d66-737675-24-999
+    400022: Obj3d66-737675-25-412
+    400024: Obj3d66-737675-26-150
+    400026: Obj3d66-737675-26-151
+    400028: Obj3d66-737675-29-326
+    400030: Obj3d66-737675-30-792
+    400032: Obj3d66-737675-34-899
+    400034: Obj3d66-737675-35-267
+    400036: Obj3d66-737675-38-630
+    400038: Obj3d66-737675-39-859
+    400040: Obj3d66-737675-4-999
+    400042: Obj3d66-737675-44-42
+    400044: Obj3d66-737675-45-470
+    400046: Obj3d66-737675-46-630
+    400048: Obj3d66-737675-48-96
+    400050: Obj3d66-737675-49-55
+    400052: Obj3d66-737675-5-296
+    400054: Obj3d66-737675-50-323
+    400056: Obj3d66-737675-6-737
+    400058: Obj3d66-737675-9-406
+    400060: Rectangle001
+    400062: Rectangle002
+    400064: Rectangle003
+    400066: "\u3000\uE813\uE811"
+    400068: "\u5BF9\u8C61002"
+    400070: "\u5BF9\u8C61003"
+    400072: "\u7EC4021"
+    400074: "\u7EC4022"
+    400076: "\u7EC4023"
+    400078: "\u7EC4024"
+    400080: "\u7EC4025"
+    400082: "\u7EC4026"
+    400084: "\u7EC4027"
+    400086: "\u7EC4028"
+    400088: "\u7EC4029"
+    400090: "\u7EC4030"
+    400092: "\u7EC4031"
+    400094: "\u7EC4032"
+    400096: "\u7EC4033"
+    400098: "\u7EC4034"
+    400100: "\u7EC4035"
+    400102: //RootNode
+    400104: "\uE814\uE812"
+    2300000: Obj3d66-720568-1-622
+    2300002: Obj3d66-720568-1-623
+    2300004: Obj3d66-720568-2-759
+    2300006: Obj3d66-720568-2-760
+    2300008: Obj3d66-720568-3-162
+    2300010: Obj3d66-720568-3-163
+    2300012: Obj3d66-737675-11-482
+    2300014: Obj3d66-737675-21-523
+    2300016: Obj3d66-737675-22-819
+    2300018: Obj3d66-737675-23-637
+    2300020: Obj3d66-737675-24-999
+    2300022: Obj3d66-737675-25-412
+    2300024: Obj3d66-737675-26-150
+    2300026: Obj3d66-737675-26-151
+    2300028: Obj3d66-737675-29-326
+    2300030: Obj3d66-737675-30-792
+    2300032: Obj3d66-737675-34-899
+    2300034: Obj3d66-737675-35-267
+    2300036: Obj3d66-737675-38-630
+    2300038: Obj3d66-737675-39-859
+    2300040: Obj3d66-737675-4-999
+    2300042: Obj3d66-737675-44-42
+    2300044: Obj3d66-737675-45-470
+    2300046: Obj3d66-737675-46-630
+    2300048: Obj3d66-737675-48-96
+    2300050: Obj3d66-737675-49-55
+    2300052: Obj3d66-737675-5-296
+    2300054: Obj3d66-737675-50-323
+    2300056: Obj3d66-737675-6-737
+    2300058: Obj3d66-737675-9-406
+    2300060: Rectangle001
+    2300062: Rectangle002
+    2300064: Rectangle003
+    2300066: "\u5BF9\u8C61002"
+    2300068: "\u5BF9\u8C61003"
+    3300000: Obj3d66-720568-1-622
+    3300002: Obj3d66-720568-1-623
+    3300004: Obj3d66-720568-2-759
+    3300006: Obj3d66-720568-2-760
+    3300008: Obj3d66-720568-3-162
+    3300010: Obj3d66-720568-3-163
+    3300012: Obj3d66-737675-11-482
+    3300014: Obj3d66-737675-21-523
+    3300016: Obj3d66-737675-22-819
+    3300018: Obj3d66-737675-23-637
+    3300020: Obj3d66-737675-24-999
+    3300022: Obj3d66-737675-25-412
+    3300024: Obj3d66-737675-26-150
+    3300026: Obj3d66-737675-26-151
+    3300028: Obj3d66-737675-29-326
+    3300030: Obj3d66-737675-30-792
+    3300032: Obj3d66-737675-34-899
+    3300034: Obj3d66-737675-35-267
+    3300036: Obj3d66-737675-38-630
+    3300038: Obj3d66-737675-39-859
+    3300040: Obj3d66-737675-4-999
+    3300042: Obj3d66-737675-44-42
+    3300044: Obj3d66-737675-45-470
+    3300046: Obj3d66-737675-46-630
+    3300048: Obj3d66-737675-48-96
+    3300050: Obj3d66-737675-49-55
+    3300052: Obj3d66-737675-5-296
+    3300054: Obj3d66-737675-50-323
+    3300056: Obj3d66-737675-6-737
+    3300058: Obj3d66-737675-9-406
+    3300060: Rectangle001
+    3300062: Rectangle002
+    3300064: Rectangle003
+    3300066: "\u5BF9\u8C61002"
+    3300068: "\u5BF9\u8C61003"
+    4300000: Obj3d66-737675-5-296
+    4300002: Obj3d66-737675-6-737
+    4300004: Obj3d66-737675-9-406
+    4300006: Obj3d66-737675-11-482
+    4300008: Obj3d66-720568-3-162
+    4300010: Obj3d66-720568-1-622
+    4300012: Obj3d66-720568-2-759
+    4300014: "\u5BF9\u8C61002"
+    4300016: "\u5BF9\u8C61003"
+    4300018: Obj3d66-720568-3-163
+    4300020: Obj3d66-720568-1-623
+    4300022: Obj3d66-720568-2-760
+    4300024: Obj3d66-737675-24-999
+    4300026: Obj3d66-737675-23-637
+    4300028: Obj3d66-737675-22-819
+    4300030: Obj3d66-737675-21-523
+    4300032: Obj3d66-737675-4-999
+    4300034: Rectangle001
+    4300036: Obj3d66-737675-25-412
+    4300038: Obj3d66-737675-26-150
+    4300040: Obj3d66-737675-38-630
+    4300042: Obj3d66-737675-39-859
+    4300044: Obj3d66-737675-29-326
+    4300046: Obj3d66-737675-30-792
+    4300048: Rectangle002
+    4300050: Obj3d66-737675-26-151
+    4300052: Obj3d66-737675-44-42
+    4300054: Obj3d66-737675-46-630
+    4300056: Obj3d66-737675-48-96
+    4300058: Obj3d66-737675-45-470
+    4300060: Rectangle003
+    4300062: Obj3d66-737675-49-55
+    4300064: Obj3d66-737675-50-323
+    4300066: Obj3d66-737675-35-267
+    4300068: Obj3d66-737675-34-899
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Obj3d66-737675-5-296
+        weight: 1
+      - path: Obj3d66-737675-6-737
+        weight: 1
+      - path: Obj3d66-737675-9-406
+        weight: 1
+      - path: Obj3d66-737675-11-482
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u7EC4021"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-1-622"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-2-759"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-3-162"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61002"
+        weight: 1
+      - path: "\u7EC4022"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-1-623"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-2-760"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-3-163"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61003"
+        weight: 1
+      - path: "\u7EC4031"
+        weight: 1
+      - path: "\u7EC4031/Obj3d66-737675-4-999"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025/Obj3d66-737675-21-523"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025/Obj3d66-737675-22-819"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026/Obj3d66-737675-23-637"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026/Obj3d66-737675-24-999"
+        weight: 1
+      - path: "\u7EC4033"
+        weight: 1
+      - path: "\u7EC4033/Rectangle001"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/Obj3d66-737675-25-412"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/Obj3d66-737675-26-150"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-29-326"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-30-792"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-38-630"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-39-859"
+        weight: 1
+      - path: "\u7EC4034"
+        weight: 1
+      - path: "\u7EC4034/Rectangle002"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/Obj3d66-737675-26-151"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-44-42"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-45-470"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-46-630"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-48-96"
+        weight: 1
+      - path: "\u7EC4035"
+        weight: 1
+      - path: "\u7EC4035/Rectangle003"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028/Obj3d66-737675-49-55"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028/Obj3d66-737675-50-323"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029/Obj3d66-737675-34-899"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029/Obj3d66-737675-35-267"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Obj3d66-737675-5-296
+        weight: 1
+      - path: Obj3d66-737675-6-737
+        weight: 1
+      - path: Obj3d66-737675-9-406
+        weight: 1
+      - path: Obj3d66-737675-11-482
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u7EC4021"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-1-622"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-2-759"
+        weight: 1
+      - path: "\u7EC4021/Obj3d66-720568-3-162"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61002"
+        weight: 1
+      - path: "\u7EC4022"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-1-623"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-2-760"
+        weight: 1
+      - path: "\u7EC4022/Obj3d66-720568-3-163"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61003"
+        weight: 1
+      - path: "\u7EC4031"
+        weight: 1
+      - path: "\u7EC4031/Obj3d66-737675-4-999"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025/Obj3d66-737675-21-523"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4025/Obj3d66-737675-22-819"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026/Obj3d66-737675-23-637"
+        weight: 1
+      - path: "\u7EC4031/\u7EC4026/Obj3d66-737675-24-999"
+        weight: 1
+      - path: "\u7EC4033"
+        weight: 1
+      - path: "\u7EC4033/Rectangle001"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/Obj3d66-737675-25-412"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/Obj3d66-737675-26-150"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-29-326"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-30-792"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-38-630"
+        weight: 1
+      - path: "\u7EC4033/\u7EC4027/\u7EC4024/Obj3d66-737675-39-859"
+        weight: 1
+      - path: "\u7EC4034"
+        weight: 1
+      - path: "\u7EC4034/Rectangle002"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/Obj3d66-737675-26-151"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-44-42"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-45-470"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-46-630"
+        weight: 1
+      - path: "\u7EC4034/\u7EC4030/\u7EC4023/Obj3d66-737675-48-96"
+        weight: 1
+      - path: "\u7EC4035"
+        weight: 1
+      - path: "\u7EC4035/Rectangle003"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028/Obj3d66-737675-49-55"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4028/Obj3d66-737675-50-323"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029/Obj3d66-737675-34-899"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u7EC4029/Obj3d66-737675-35-267"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

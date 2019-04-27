@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: b3ef9e31f0adc7d46a9238d65bfa905e
+timeCreated: 1554731177
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box004
+    100002: Box005
+    100004: Box006
+    100006: Box017
+    100008: Cylinder001
+    100010: Cylinder002
+    100012: Obj3d66-543182-190-101
+    100014: Obj3d66-543182-190-102
+    100016: Rectangle018
+    100018: Rectangle021
+    100020: Rectangle022
+    100022: Text001
+    100024: "\u3000\uE813\uE811"
+    100026: "\u5BF9\u8C61002"
+    100028: "\u5BF9\u8C61006"
+    100030: "\u5BF9\u8C61008"
+    100032: "\u5BF9\u8C61009"
+    100034: "\u5BF9\u8C61013"
+    100036: "\u5BF9\u8C61014"
+    100038: "\u5BF9\u8C61015"
+    100040: "\u7EC4003"
+    100042: "\u7EC4004"
+    100044: "\u7EC4005"
+    100046: "\u7EC4006"
+    100048: //RootNode
+    100050: "\uE814\uE812"
+    400000: Box004
+    400002: Box005
+    400004: Box006
+    400006: Box017
+    400008: Cylinder001
+    400010: Cylinder002
+    400012: Obj3d66-543182-190-101
+    400014: Obj3d66-543182-190-102
+    400016: Rectangle018
+    400018: Rectangle021
+    400020: Rectangle022
+    400022: Text001
+    400024: "\u3000\uE813\uE811"
+    400026: "\u5BF9\u8C61002"
+    400028: "\u5BF9\u8C61006"
+    400030: "\u5BF9\u8C61008"
+    400032: "\u5BF9\u8C61009"
+    400034: "\u5BF9\u8C61013"
+    400036: "\u5BF9\u8C61014"
+    400038: "\u5BF9\u8C61015"
+    400040: "\u7EC4003"
+    400042: "\u7EC4004"
+    400044: "\u7EC4005"
+    400046: "\u7EC4006"
+    400048: //RootNode
+    400050: "\uE814\uE812"
+    2300000: Box004
+    2300002: Box005
+    2300004: Box006
+    2300006: Box017
+    2300008: Cylinder001
+    2300010: Cylinder002
+    2300012: Obj3d66-543182-190-101
+    2300014: Obj3d66-543182-190-102
+    2300016: Rectangle018
+    2300018: Rectangle021
+    2300020: Rectangle022
+    2300022: Text001
+    2300024: "\u5BF9\u8C61002"
+    2300026: "\u5BF9\u8C61006"
+    2300028: "\u5BF9\u8C61008"
+    2300030: "\u5BF9\u8C61009"
+    2300032: "\u5BF9\u8C61013"
+    2300034: "\u5BF9\u8C61015"
+    3300000: Box004
+    3300002: Box005
+    3300004: Box006
+    3300006: Box017
+    3300008: Cylinder001
+    3300010: Cylinder002
+    3300012: Obj3d66-543182-190-101
+    3300014: Obj3d66-543182-190-102
+    3300016: Rectangle018
+    3300018: Rectangle021
+    3300020: Rectangle022
+    3300022: Text001
+    3300024: "\u5BF9\u8C61002"
+    3300026: "\u5BF9\u8C61006"
+    3300028: "\u5BF9\u8C61008"
+    3300030: "\u5BF9\u8C61009"
+    3300032: "\u5BF9\u8C61013"
+    3300034: "\u5BF9\u8C61015"
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: "\u5BF9\u8C61002"
+    4300006: "\u5BF9\u8C61008"
+    4300008: "\u5BF9\u8C61013"
+    4300010: Obj3d66-543182-190-101
+    4300012: Obj3d66-543182-190-102
+    4300014: Rectangle022
+    4300016: Text001
+    4300018: Box006
+    4300020: Box017
+    4300022: Box004
+    4300024: "\u5BF9\u8C61006"
+    4300026: "\u5BF9\u8C61009"
+    4300028: Box005
+    4300030: "\u5BF9\u8C61015"
+    4300032: Rectangle018
+    4300034: Rectangle021
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61002"
+        weight: 1
+      - path: "\u5BF9\u8C61006"
+        weight: 1
+      - path: "\u5BF9\u8C61008"
+        weight: 1
+      - path: "\u5BF9\u8C61013"
+        weight: 1
+      - path: "\u5BF9\u8C61014"
+        weight: 1
+      - path: "\u5BF9\u8C61015"
+        weight: 1
+      - path: "\u7EC4003"
+        weight: 1
+      - path: "\u7EC4003/Obj3d66-543182-190-101"
+        weight: 1
+      - path: "\u7EC4003/Obj3d66-543182-190-102"
+        weight: 1
+      - path: "\u7EC4004"
+        weight: 1
+      - path: "\u7EC4004/Rectangle022"
+        weight: 1
+      - path: "\u7EC4004/Text001"
+        weight: 1
+      - path: "\u7EC4005"
+        weight: 1
+      - path: "\u7EC4005/Box005"
+        weight: 1
+      - path: "\u7EC4005/\u5BF9\u8C61009"
+        weight: 1
+      - path: "\u7EC4006"
+        weight: 1
+      - path: "\u7EC4006/Rectangle018"
+        weight: 1
+      - path: "\u7EC4006/Rectangle021"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61002"
+        weight: 1
+      - path: "\u5BF9\u8C61006"
+        weight: 1
+      - path: "\u5BF9\u8C61008"
+        weight: 1
+      - path: "\u5BF9\u8C61013"
+        weight: 1
+      - path: "\u5BF9\u8C61014"
+        weight: 1
+      - path: "\u5BF9\u8C61015"
+        weight: 1
+      - path: "\u7EC4003"
+        weight: 1
+      - path: "\u7EC4003/Obj3d66-543182-190-101"
+        weight: 1
+      - path: "\u7EC4003/Obj3d66-543182-190-102"
+        weight: 1
+      - path: "\u7EC4004"
+        weight: 1
+      - path: "\u7EC4004/Rectangle022"
+        weight: 1
+      - path: "\u7EC4004/Text001"
+        weight: 1
+      - path: "\u7EC4005"
+        weight: 1
+      - path: "\u7EC4005/Box005"
+        weight: 1
+      - path: "\u7EC4005/\u5BF9\u8C61009"
+        weight: 1
+      - path: "\u7EC4006"
+        weight: 1
+      - path: "\u7EC4006/Rectangle018"
+        weight: 1
+      - path: "\u7EC4006/Rectangle021"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

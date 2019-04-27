@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: aa5606ee9ec036640a3889ff6c9440c5
+timeCreated: 1555160841
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Obj3d66-691618-1-672
+    100002: Obj3d66-691618-11-675
+    100004: Obj3d66-691618-12-361
+    100006: Obj3d66-691618-18-444
+    100008: Obj3d66-691618-19-882
+    100010: Obj3d66-691618-20-252
+    100012: Obj3d66-691618-21-840
+    100014: Obj3d66-691618-22-508
+    100016: Obj3d66-691618-23-562
+    100018: Obj3d66-691618-24-760
+    100020: Obj3d66-691618-25-365
+    100022: Obj3d66-691618-26-851
+    100024: Obj3d66-691618-27-626
+    100026: Obj3d66-691618-28-208
+    100028: Obj3d66-691618-29-228
+    100030: Obj3d66-691618-3-415
+    100032: Obj3d66-691618-30-791
+    100034: Obj3d66-691618-4-486
+    100036: Obj3d66-691618-5-359
+    100038: Obj3d66-691618-6-691
+    100040: Obj3d66-691618-7-42
+    100042: "\u3000\uE813\uE811"
+    100044: "\u5BF9\u8C61377"
+    100046: "\u5BF9\u8C61378"
+    100048: "\u5BF9\u8C61379"
+    100050: "\u5BF9\u8C61380"
+    100052: "\u5BF9\u8C61381"
+    100054: "\u5BF9\u8C61382"
+    100056: "\u5BF9\u8C61383"
+    100058: "\u5BF9\u8C61384"
+    100060: "\u5BF9\u8C61385"
+    100062: "\u5BF9\u8C61386"
+    100064: "\u5BF9\u8C61387"
+    100066: "\u5BF9\u8C61388"
+    100068: "\u5BF9\u8C61389"
+    100070: "\u5BF9\u8C61390"
+    100072: "\u5BF9\u8C61391"
+    100074: "\u5BF9\u8C61392"
+    100076: "\u5BF9\u8C61393"
+    100078: "\u5BF9\u8C61394"
+    100080: "\u5BF9\u8C61395"
+    100082: "\u5BF9\u8C61396"
+    100084: "\u5BF9\u8C61397"
+    100086: "\u5BF9\u8C61398"
+    100088: "\u5BF9\u8C61399"
+    100090: "\u5BF9\u8C61400"
+    100092: "\u5BF9\u8C61401"
+    100094: "\u5BF9\u8C61402"
+    100096: "\u5BF9\u8C61403"
+    100098: "\u5BF9\u8C61404"
+    100100: "\u5BF9\u8C61405"
+    100102: "\u5BF9\u8C61406"
+    100104: "\u5BF9\u8C61407"
+    100106: "\u5BF9\u8C61408"
+    100108: "\u5BF9\u8C61409"
+    100110: "\u5BF9\u8C61410"
+    100112: "\u5BF9\u8C61411"
+    100114: "\u5BF9\u8C61412"
+    100116: "\u5BF9\u8C61413"
+    100118: "\u5BF9\u8C61414"
+    100120: "\u5BF9\u8C61415"
+    100122: "\u5BF9\u8C61416"
+    100124: "\u5BF9\u8C61417"
+    100126: "\u5BF9\u8C61418"
+    100128: "\u5BF9\u8C61419"
+    100130: "\u5BF9\u8C61420"
+    100132: "\u5BF9\u8C61421"
+    100134: "\u5BF9\u8C61422"
+    100136: //RootNode
+    100138: "\u7EC4015"
+    100140: "\u7EC4016"
+    100142: "\u7EC4017"
+    100144: "\u7EC4018"
+    100146: "\u7EC4019"
+    100148: "\u7EC4020"
+    100150: "\u7EC4021"
+    100152: "\u7EC4022"
+    100154: "\u7EC4023"
+    100156: "\u7EC4024"
+    100158: "\u7EC4025"
+    100160: "\u7EC4026"
+    100162: "\u7EC4029"
+    100164: "\u7EC4030"
+    100166: "\u7EC4031"
+    100168: "\u7EC4032"
+    100170: "\u7EC4033"
+    100172: "\u7EC4034"
+    100174: "\u7EC4035"
+    100176: "\u7EC4036"
+    100178: "\u7EC4037"
+    100180: "\u7EC4038"
+    100182: "\u7EC4039"
+    100184: "\u7EC4040"
+    100186: "\u7EC4041"
+    100188: "\uE814\uE812"
+    400000: Obj3d66-691618-1-672
+    400002: Obj3d66-691618-11-675
+    400004: Obj3d66-691618-12-361
+    400006: Obj3d66-691618-18-444
+    400008: Obj3d66-691618-19-882
+    400010: Obj3d66-691618-20-252
+    400012: Obj3d66-691618-21-840
+    400014: Obj3d66-691618-22-508
+    400016: Obj3d66-691618-23-562
+    400018: Obj3d66-691618-24-760
+    400020: Obj3d66-691618-25-365
+    400022: Obj3d66-691618-26-851
+    400024: Obj3d66-691618-27-626
+    400026: Obj3d66-691618-28-208
+    400028: Obj3d66-691618-29-228
+    400030: Obj3d66-691618-3-415
+    400032: Obj3d66-691618-30-791
+    400034: Obj3d66-691618-4-486
+    400036: Obj3d66-691618-5-359
+    400038: Obj3d66-691618-6-691
+    400040: Obj3d66-691618-7-42
+    400042: "\u3000\uE813\uE811"
+    400044: "\u5BF9\u8C61377"
+    400046: "\u5BF9\u8C61378"
+    400048: "\u5BF9\u8C61379"
+    400050: "\u5BF9\u8C61380"
+    400052: "\u5BF9\u8C61381"
+    400054: "\u5BF9\u8C61382"
+    400056: "\u5BF9\u8C61383"
+    400058: "\u5BF9\u8C61384"
+    400060: "\u5BF9\u8C61385"
+    400062: "\u5BF9\u8C61386"
+    400064: "\u5BF9\u8C61387"
+    400066: "\u5BF9\u8C61388"
+    400068: "\u5BF9\u8C61389"
+    400070: "\u5BF9\u8C61390"
+    400072: "\u5BF9\u8C61391"
+    400074: "\u5BF9\u8C61392"
+    400076: "\u5BF9\u8C61393"
+    400078: "\u5BF9\u8C61394"
+    400080: "\u5BF9\u8C61395"
+    400082: "\u5BF9\u8C61396"
+    400084: "\u5BF9\u8C61397"
+    400086: "\u5BF9\u8C61398"
+    400088: "\u5BF9\u8C61399"
+    400090: "\u5BF9\u8C61400"
+    400092: "\u5BF9\u8C61401"
+    400094: "\u5BF9\u8C61402"
+    400096: "\u5BF9\u8C61403"
+    400098: "\u5BF9\u8C61404"
+    400100: "\u5BF9\u8C61405"
+    400102: "\u5BF9\u8C61406"
+    400104: "\u5BF9\u8C61407"
+    400106: "\u5BF9\u8C61408"
+    400108: "\u5BF9\u8C61409"
+    400110: "\u5BF9\u8C61410"
+    400112: "\u5BF9\u8C61411"
+    400114: "\u5BF9\u8C61412"
+    400116: "\u5BF9\u8C61413"
+    400118: "\u5BF9\u8C61414"
+    400120: "\u5BF9\u8C61415"
+    400122: "\u5BF9\u8C61416"
+    400124: "\u5BF9\u8C61417"
+    400126: "\u5BF9\u8C61418"
+    400128: "\u5BF9\u8C61419"
+    400130: "\u5BF9\u8C61420"
+    400132: "\u5BF9\u8C61421"
+    400134: "\u5BF9\u8C61422"
+    400136: //RootNode
+    400138: "\u7EC4015"
+    400140: "\u7EC4016"
+    400142: "\u7EC4017"
+    400144: "\u7EC4018"
+    400146: "\u7EC4019"
+    400148: "\u7EC4020"
+    400150: "\u7EC4021"
+    400152: "\u7EC4022"
+    400154: "\u7EC4023"
+    400156: "\u7EC4024"
+    400158: "\u7EC4025"
+    400160: "\u7EC4026"
+    400162: "\u7EC4029"
+    400164: "\u7EC4030"
+    400166: "\u7EC4031"
+    400168: "\u7EC4032"
+    400170: "\u7EC4033"
+    400172: "\u7EC4034"
+    400174: "\u7EC4035"
+    400176: "\u7EC4036"
+    400178: "\u7EC4037"
+    400180: "\u7EC4038"
+    400182: "\u7EC4039"
+    400184: "\u7EC4040"
+    400186: "\u7EC4041"
+    400188: "\uE814\uE812"
+    2300000: Obj3d66-691618-1-672
+    2300002: Obj3d66-691618-11-675
+    2300004: Obj3d66-691618-12-361
+    2300006: Obj3d66-691618-18-444
+    2300008: Obj3d66-691618-19-882
+    2300010: Obj3d66-691618-20-252
+    2300012: Obj3d66-691618-21-840
+    2300014: Obj3d66-691618-22-508
+    2300016: Obj3d66-691618-23-562
+    2300018: Obj3d66-691618-24-760
+    2300020: Obj3d66-691618-25-365
+    2300022: Obj3d66-691618-26-851
+    2300024: Obj3d66-691618-27-626
+    2300026: Obj3d66-691618-28-208
+    2300028: Obj3d66-691618-29-228
+    2300030: Obj3d66-691618-3-415
+    2300032: Obj3d66-691618-30-791
+    2300034: Obj3d66-691618-4-486
+    2300036: Obj3d66-691618-5-359
+    2300038: Obj3d66-691618-6-691
+    2300040: Obj3d66-691618-7-42
+    2300042: "\u5BF9\u8C61377"
+    2300044: "\u5BF9\u8C61378"
+    2300046: "\u5BF9\u8C61379"
+    2300048: "\u5BF9\u8C61380"
+    2300050: "\u5BF9\u8C61381"
+    2300052: "\u5BF9\u8C61382"
+    2300054: "\u5BF9\u8C61383"
+    2300056: "\u5BF9\u8C61384"
+    2300058: "\u5BF9\u8C61385"
+    2300060: "\u5BF9\u8C61386"
+    2300062: "\u5BF9\u8C61387"
+    2300064: "\u5BF9\u8C61388"
+    2300066: "\u5BF9\u8C61389"
+    2300068: "\u5BF9\u8C61390"
+    2300070: "\u5BF9\u8C61391"
+    2300072: "\u5BF9\u8C61392"
+    2300074: "\u5BF9\u8C61393"
+    2300076: "\u5BF9\u8C61394"
+    2300078: "\u5BF9\u8C61395"
+    2300080: "\u5BF9\u8C61396"
+    2300082: "\u5BF9\u8C61397"
+    2300084: "\u5BF9\u8C61398"
+    2300086: "\u5BF9\u8C61399"
+    2300088: "\u5BF9\u8C61400"
+    2300090: "\u5BF9\u8C61401"
+    2300092: "\u5BF9\u8C61402"
+    2300094: "\u5BF9\u8C61403"
+    2300096: "\u5BF9\u8C61404"
+    2300098: "\u5BF9\u8C61405"
+    2300100: "\u5BF9\u8C61406"
+    2300102: "\u5BF9\u8C61407"
+    2300104: "\u5BF9\u8C61408"
+    2300106: "\u5BF9\u8C61409"
+    2300108: "\u5BF9\u8C61410"
+    2300110: "\u5BF9\u8C61411"
+    2300112: "\u5BF9\u8C61412"
+    2300114: "\u5BF9\u8C61413"
+    2300116: "\u5BF9\u8C61414"
+    2300118: "\u5BF9\u8C61415"
+    2300120: "\u5BF9\u8C61416"
+    2300122: "\u5BF9\u8C61417"
+    2300124: "\u5BF9\u8C61418"
+    2300126: "\u5BF9\u8C61419"
+    2300128: "\u5BF9\u8C61420"
+    2300130: "\u5BF9\u8C61421"
+    2300132: "\u5BF9\u8C61422"
+    3300000: Obj3d66-691618-1-672
+    3300002: Obj3d66-691618-11-675
+    3300004: Obj3d66-691618-12-361
+    3300006: Obj3d66-691618-18-444
+    3300008: Obj3d66-691618-19-882
+    3300010: Obj3d66-691618-20-252
+    3300012: Obj3d66-691618-21-840
+    3300014: Obj3d66-691618-22-508
+    3300016: Obj3d66-691618-23-562
+    3300018: Obj3d66-691618-24-760
+    3300020: Obj3d66-691618-25-365
+    3300022: Obj3d66-691618-26-851
+    3300024: Obj3d66-691618-27-626
+    3300026: Obj3d66-691618-28-208
+    3300028: Obj3d66-691618-29-228
+    3300030: Obj3d66-691618-3-415
+    3300032: Obj3d66-691618-30-791
+    3300034: Obj3d66-691618-4-486
+    3300036: Obj3d66-691618-5-359
+    3300038: Obj3d66-691618-6-691
+    3300040: Obj3d66-691618-7-42
+    3300042: "\u5BF9\u8C61377"
+    3300044: "\u5BF9\u8C61378"
+    3300046: "\u5BF9\u8C61379"
+    3300048: "\u5BF9\u8C61380"
+    3300050: "\u5BF9\u8C61381"
+    3300052: "\u5BF9\u8C61382"
+    3300054: "\u5BF9\u8C61383"
+    3300056: "\u5BF9\u8C61384"
+    3300058: "\u5BF9\u8C61385"
+    3300060: "\u5BF9\u8C61386"
+    3300062: "\u5BF9\u8C61387"
+    3300064: "\u5BF9\u8C61388"
+    3300066: "\u5BF9\u8C61389"
+    3300068: "\u5BF9\u8C61390"
+    3300070: "\u5BF9\u8C61391"
+    3300072: "\u5BF9\u8C61392"
+    3300074: "\u5BF9\u8C61393"
+    3300076: "\u5BF9\u8C61394"
+    3300078: "\u5BF9\u8C61395"
+    3300080: "\u5BF9\u8C61396"
+    3300082: "\u5BF9\u8C61397"
+    3300084: "\u5BF9\u8C61398"
+    3300086: "\u5BF9\u8C61399"
+    3300088: "\u5BF9\u8C61400"
+    3300090: "\u5BF9\u8C61401"
+    3300092: "\u5BF9\u8C61402"
+    3300094: "\u5BF9\u8C61403"
+    3300096: "\u5BF9\u8C61404"
+    3300098: "\u5BF9\u8C61405"
+    3300100: "\u5BF9\u8C61406"
+    3300102: "\u5BF9\u8C61407"
+    3300104: "\u5BF9\u8C61408"
+    3300106: "\u5BF9\u8C61409"
+    3300108: "\u5BF9\u8C61410"
+    3300110: "\u5BF9\u8C61411"
+    3300112: "\u5BF9\u8C61412"
+    3300114: "\u5BF9\u8C61413"
+    3300116: "\u5BF9\u8C61414"
+    3300118: "\u5BF9\u8C61415"
+    3300120: "\u5BF9\u8C61416"
+    3300122: "\u5BF9\u8C61417"
+    3300124: "\u5BF9\u8C61418"
+    3300126: "\u5BF9\u8C61419"
+    3300128: "\u5BF9\u8C61420"
+    3300130: "\u5BF9\u8C61421"
+    3300132: "\u5BF9\u8C61422"
+    4300000: Obj3d66-691618-3-415
+    4300002: Obj3d66-691618-6-691
+    4300004: Obj3d66-691618-18-444
+    4300006: Obj3d66-691618-19-882
+    4300008: "\u5BF9\u8C61378"
+    4300010: "\u5BF9\u8C61381"
+    4300012: "\u5BF9\u8C61380"
+    4300014: "\u5BF9\u8C61382"
+    4300016: "\u5BF9\u8C61383"
+    4300018: "\u5BF9\u8C61379"
+    4300020: Obj3d66-691618-11-675
+    4300022: Obj3d66-691618-30-791
+    4300024: "\u5BF9\u8C61400"
+    4300026: Obj3d66-691618-26-851
+    4300028: "\u5BF9\u8C61399"
+    4300030: Obj3d66-691618-29-228
+    4300032: "\u5BF9\u8C61395"
+    4300034: Obj3d66-691618-27-626
+    4300036: "\u5BF9\u8C61394"
+    4300038: Obj3d66-691618-28-208
+    4300040: Obj3d66-691618-12-361
+    4300042: "\u5BF9\u8C61393"
+    4300044: "\u5BF9\u8C61398"
+    4300046: "\u5BF9\u8C61384"
+    4300048: "\u5BF9\u8C61397"
+    4300050: "\u5BF9\u8C61385"
+    4300052: "\u5BF9\u8C61396"
+    4300054: "\u5BF9\u8C61386"
+    4300056: "\u5BF9\u8C61392"
+    4300058: "\u5BF9\u8C61387"
+    4300060: "\u5BF9\u8C61391"
+    4300062: "\u5BF9\u8C61388"
+    4300064: "\u5BF9\u8C61390"
+    4300066: "\u5BF9\u8C61389"
+    4300068: "\u5BF9\u8C61401"
+    4300070: "\u5BF9\u8C61402"
+    4300072: "\u5BF9\u8C61403"
+    4300074: "\u5BF9\u8C61404"
+    4300076: "\u5BF9\u8C61407"
+    4300078: "\u5BF9\u8C61416"
+    4300080: "\u5BF9\u8C61413"
+    4300082: "\u5BF9\u8C61414"
+    4300084: "\u5BF9\u8C61415"
+    4300086: Obj3d66-691618-23-562
+    4300088: "\u5BF9\u8C61412"
+    4300090: "\u5BF9\u8C61410"
+    4300092: "\u5BF9\u8C61411"
+    4300094: "\u5BF9\u8C61417"
+    4300096: "\u5BF9\u8C61418"
+    4300098: "\u5BF9\u8C61408"
+    4300100: Obj3d66-691618-20-252
+    4300102: "\u5BF9\u8C61409"
+    4300104: "\u5BF9\u8C61406"
+    4300106: "\u5BF9\u8C61419"
+    4300108: Obj3d66-691618-22-508
+    4300110: Obj3d66-691618-21-840
+    4300112: "\u5BF9\u8C61405"
+    4300114: Obj3d66-691618-24-760
+    4300116: Obj3d66-691618-25-365
+    4300118: Obj3d66-691618-4-486
+    4300120: Obj3d66-691618-7-42
+    4300122: Obj3d66-691618-5-359
+    4300124: Obj3d66-691618-1-672
+    4300126: "\u5BF9\u8C61420"
+    4300128: "\u5BF9\u8C61421"
+    4300130: "\u5BF9\u8C61422"
+    4300132: "\u5BF9\u8C61377"
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Obj3d66-691618-3-415
+        weight: 1
+      - path: Obj3d66-691618-6-691
+        weight: 1
+      - path: Obj3d66-691618-18-444
+        weight: 1
+      - path: Obj3d66-691618-19-882
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61377"
+        weight: 1
+      - path: "\u5BF9\u8C61378"
+        weight: 1
+      - path: "\u5BF9\u8C61379"
+        weight: 1
+      - path: "\u5BF9\u8C61380"
+        weight: 1
+      - path: "\u5BF9\u8C61381"
+        weight: 1
+      - path: "\u5BF9\u8C61382"
+        weight: 1
+      - path: "\u5BF9\u8C61383"
+        weight: 1
+      - path: "\u5BF9\u8C61401"
+        weight: 1
+      - path: "\u5BF9\u8C61402"
+        weight: 1
+      - path: "\u5BF9\u8C61403"
+        weight: 1
+      - path: "\u5BF9\u8C61404"
+        weight: 1
+      - path: "\u5BF9\u8C61407"
+        weight: 1
+      - path: "\u5BF9\u8C61417"
+        weight: 1
+      - path: "\u5BF9\u8C61420"
+        weight: 1
+      - path: "\u5BF9\u8C61421"
+        weight: 1
+      - path: "\u5BF9\u8C61422"
+        weight: 1
+      - path: "\u7EC4015"
+        weight: 1
+      - path: "\u7EC4015/Obj3d66-691618-11-675"
+        weight: 1
+      - path: "\u7EC4015/Obj3d66-691618-30-791"
+        weight: 1
+      - path: "\u7EC4016"
+        weight: 1
+      - path: "\u7EC4016/Obj3d66-691618-26-851"
+        weight: 1
+      - path: "\u7EC4016/\u5BF9\u8C61400"
+        weight: 1
+      - path: "\u7EC4017"
+        weight: 1
+      - path: "\u7EC4017/Obj3d66-691618-29-228"
+        weight: 1
+      - path: "\u7EC4017/\u5BF9\u8C61399"
+        weight: 1
+      - path: "\u7EC4018"
+        weight: 1
+      - path: "\u7EC4018/Obj3d66-691618-27-626"
+        weight: 1
+      - path: "\u7EC4018/\u5BF9\u8C61395"
+        weight: 1
+      - path: "\u7EC4019"
+        weight: 1
+      - path: "\u7EC4019/Obj3d66-691618-28-208"
+        weight: 1
+      - path: "\u7EC4019/\u5BF9\u8C61394"
+        weight: 1
+      - path: "\u7EC4020"
+        weight: 1
+      - path: "\u7EC4020/Obj3d66-691618-12-361"
+        weight: 1
+      - path: "\u7EC4020/\u5BF9\u8C61393"
+        weight: 1
+      - path: "\u7EC4021"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61384"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61398"
+        weight: 1
+      - path: "\u7EC4022"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61385"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61397"
+        weight: 1
+      - path: "\u7EC4023"
+        weight: 1
+      - path: "\u7EC4023/\u5BF9\u8C61386"
+        weight: 1
+      - path: "\u7EC4023/\u5BF9\u8C61396"
+        weight: 1
+      - path: "\u7EC4024"
+        weight: 1
+      - path: "\u7EC4024/\u5BF9\u8C61387"
+        weight: 1
+      - path: "\u7EC4024/\u5BF9\u8C61392"
+        weight: 1
+      - path: "\u7EC4025"
+        weight: 1
+      - path: "\u7EC4025/\u5BF9\u8C61388"
+        weight: 1
+      - path: "\u7EC4025/\u5BF9\u8C61391"
+        weight: 1
+      - path: "\u7EC4026"
+        weight: 1
+      - path: "\u7EC4026/\u5BF9\u8C61389"
+        weight: 1
+      - path: "\u7EC4026/\u5BF9\u8C61390"
+        weight: 1
+      - path: "\u7EC4035"
+        weight: 1
+      - path: "\u7EC4035/\u5BF9\u8C61416"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61413"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61414"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61415"
+        weight: 1
+      - path: "\u7EC4036"
+        weight: 1
+      - path: "\u7EC4036/Obj3d66-691618-23-562"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61410"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61411"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61412"
+        weight: 1
+      - path: "\u7EC4037"
+        weight: 1
+      - path: "\u7EC4037/\u5BF9\u8C61418"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031/Obj3d66-691618-20-252"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031/\u5BF9\u8C61408"
+        weight: 1
+      - path: "\u7EC4038"
+        weight: 1
+      - path: "\u7EC4038/\u5BF9\u8C61419"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030/\u5BF9\u8C61406"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030/\u5BF9\u8C61409"
+        weight: 1
+      - path: "\u7EC4039"
+        weight: 1
+      - path: "\u7EC4039/Obj3d66-691618-22-508"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029/Obj3d66-691618-21-840"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029/\u5BF9\u8C61405"
+        weight: 1
+      - path: "\u7EC4040"
+        weight: 1
+      - path: "\u7EC4040/Obj3d66-691618-24-760"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-4-486"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-7-42"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-25-365"
+        weight: 1
+      - path: "\u7EC4041"
+        weight: 1
+      - path: "\u7EC4041/Obj3d66-691618-1-672"
+        weight: 1
+      - path: "\u7EC4041/Obj3d66-691618-5-359"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Obj3d66-691618-3-415
+        weight: 1
+      - path: Obj3d66-691618-6-691
+        weight: 1
+      - path: Obj3d66-691618-18-444
+        weight: 1
+      - path: Obj3d66-691618-19-882
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61377"
+        weight: 1
+      - path: "\u5BF9\u8C61378"
+        weight: 1
+      - path: "\u5BF9\u8C61379"
+        weight: 1
+      - path: "\u5BF9\u8C61380"
+        weight: 1
+      - path: "\u5BF9\u8C61381"
+        weight: 1
+      - path: "\u5BF9\u8C61382"
+        weight: 1
+      - path: "\u5BF9\u8C61383"
+        weight: 1
+      - path: "\u5BF9\u8C61401"
+        weight: 1
+      - path: "\u5BF9\u8C61402"
+        weight: 1
+      - path: "\u5BF9\u8C61403"
+        weight: 1
+      - path: "\u5BF9\u8C61404"
+        weight: 1
+      - path: "\u5BF9\u8C61407"
+        weight: 1
+      - path: "\u5BF9\u8C61417"
+        weight: 1
+      - path: "\u5BF9\u8C61420"
+        weight: 1
+      - path: "\u5BF9\u8C61421"
+        weight: 1
+      - path: "\u5BF9\u8C61422"
+        weight: 1
+      - path: "\u7EC4015"
+        weight: 1
+      - path: "\u7EC4015/Obj3d66-691618-11-675"
+        weight: 1
+      - path: "\u7EC4015/Obj3d66-691618-30-791"
+        weight: 1
+      - path: "\u7EC4016"
+        weight: 1
+      - path: "\u7EC4016/Obj3d66-691618-26-851"
+        weight: 1
+      - path: "\u7EC4016/\u5BF9\u8C61400"
+        weight: 1
+      - path: "\u7EC4017"
+        weight: 1
+      - path: "\u7EC4017/Obj3d66-691618-29-228"
+        weight: 1
+      - path: "\u7EC4017/\u5BF9\u8C61399"
+        weight: 1
+      - path: "\u7EC4018"
+        weight: 1
+      - path: "\u7EC4018/Obj3d66-691618-27-626"
+        weight: 1
+      - path: "\u7EC4018/\u5BF9\u8C61395"
+        weight: 1
+      - path: "\u7EC4019"
+        weight: 1
+      - path: "\u7EC4019/Obj3d66-691618-28-208"
+        weight: 1
+      - path: "\u7EC4019/\u5BF9\u8C61394"
+        weight: 1
+      - path: "\u7EC4020"
+        weight: 1
+      - path: "\u7EC4020/Obj3d66-691618-12-361"
+        weight: 1
+      - path: "\u7EC4020/\u5BF9\u8C61393"
+        weight: 1
+      - path: "\u7EC4021"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61384"
+        weight: 1
+      - path: "\u7EC4021/\u5BF9\u8C61398"
+        weight: 1
+      - path: "\u7EC4022"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61385"
+        weight: 1
+      - path: "\u7EC4022/\u5BF9\u8C61397"
+        weight: 1
+      - path: "\u7EC4023"
+        weight: 1
+      - path: "\u7EC4023/\u5BF9\u8C61386"
+        weight: 1
+      - path: "\u7EC4023/\u5BF9\u8C61396"
+        weight: 1
+      - path: "\u7EC4024"
+        weight: 1
+      - path: "\u7EC4024/\u5BF9\u8C61387"
+        weight: 1
+      - path: "\u7EC4024/\u5BF9\u8C61392"
+        weight: 1
+      - path: "\u7EC4025"
+        weight: 1
+      - path: "\u7EC4025/\u5BF9\u8C61388"
+        weight: 1
+      - path: "\u7EC4025/\u5BF9\u8C61391"
+        weight: 1
+      - path: "\u7EC4026"
+        weight: 1
+      - path: "\u7EC4026/\u5BF9\u8C61389"
+        weight: 1
+      - path: "\u7EC4026/\u5BF9\u8C61390"
+        weight: 1
+      - path: "\u7EC4035"
+        weight: 1
+      - path: "\u7EC4035/\u5BF9\u8C61416"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61413"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61414"
+        weight: 1
+      - path: "\u7EC4035/\u7EC4032/\u5BF9\u8C61415"
+        weight: 1
+      - path: "\u7EC4036"
+        weight: 1
+      - path: "\u7EC4036/Obj3d66-691618-23-562"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61410"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61411"
+        weight: 1
+      - path: "\u7EC4036/\u7EC4033/\u5BF9\u8C61412"
+        weight: 1
+      - path: "\u7EC4037"
+        weight: 1
+      - path: "\u7EC4037/\u5BF9\u8C61418"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031/Obj3d66-691618-20-252"
+        weight: 1
+      - path: "\u7EC4037/\u7EC4031/\u5BF9\u8C61408"
+        weight: 1
+      - path: "\u7EC4038"
+        weight: 1
+      - path: "\u7EC4038/\u5BF9\u8C61419"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030/\u5BF9\u8C61406"
+        weight: 1
+      - path: "\u7EC4038/\u7EC4030/\u5BF9\u8C61409"
+        weight: 1
+      - path: "\u7EC4039"
+        weight: 1
+      - path: "\u7EC4039/Obj3d66-691618-22-508"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029/Obj3d66-691618-21-840"
+        weight: 1
+      - path: "\u7EC4039/\u7EC4029/\u5BF9\u8C61405"
+        weight: 1
+      - path: "\u7EC4040"
+        weight: 1
+      - path: "\u7EC4040/Obj3d66-691618-24-760"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-4-486"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-7-42"
+        weight: 1
+      - path: "\u7EC4040/\u7EC4034/Obj3d66-691618-25-365"
+        weight: 1
+      - path: "\u7EC4041"
+        weight: 1
+      - path: "\u7EC4041/Obj3d66-691618-1-672"
+        weight: 1
+      - path: "\u7EC4041/Obj3d66-691618-5-359"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

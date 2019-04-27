@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 7e25071ab460dda41b0d589a7ffd0c99
+timeCreated: 1554731168
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder003
+    100006: Cylinder004
+    100008: Cylinder005
+    100010: Obj3d66-543182-159-200
+    100012: Obj3d66-543182-159-201
+    100014: Obj3d66-737675-101-199
+    100016: Obj3d66-737675-102-328
+    100018: Obj3d66-737675-103-788
+    100020: Obj3d66-737675-103-789
+    100022: Obj3d66-737675-106-908
+    100024: Obj3d66-737675-16-150
+    100026: Obj3d66-737675-17-216
+    100028: Obj3d66-737675-18-716
+    100030: Obj3d66-737675-2-017
+    100032: Obj3d66-737675-2-16
+    100034: Obj3d66-737675-36-646
+    100036: Obj3d66-737675-37-643
+    100038: Obj3d66-737675-483-103
+    100040: Obj3d66-737675-486-339
+    100042: Obj3d66-737675-487-932
+    100044: Obj3d66-737675-85-337
+    100046: Obj3d66-737675-97-850
+    100048: Obj3d66-737675-98-636
+    100050: Obj3d66-737675-99-498
+    100052: Plane005
+    100054: Plane006
+    100056: Rectangle009
+    100058: Rectangle010
+    100060: Rectangle011
+    100062: Rectangle012
+    100064: Text001
+    100066: "\u3000\uE813\uE811"
+    100068: "\u7EC4018"
+    100070: "\u7EC4019"
+    100072: "\u7EC4020"
+    100074: "\u7EC4023"
+    100076: "\u7EC4024"
+    100078: "\u7EC4025"
+    100080: "\u7EC4026"
+    100082: "\u7EC4027"
+    100084: //RootNode
+    100086: "\uE814\uE812"
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder003
+    400006: Cylinder004
+    400008: Cylinder005
+    400010: Obj3d66-543182-159-200
+    400012: Obj3d66-543182-159-201
+    400014: Obj3d66-737675-101-199
+    400016: Obj3d66-737675-102-328
+    400018: Obj3d66-737675-103-788
+    400020: Obj3d66-737675-103-789
+    400022: Obj3d66-737675-106-908
+    400024: Obj3d66-737675-16-150
+    400026: Obj3d66-737675-17-216
+    400028: Obj3d66-737675-18-716
+    400030: Obj3d66-737675-2-017
+    400032: Obj3d66-737675-2-16
+    400034: Obj3d66-737675-36-646
+    400036: Obj3d66-737675-37-643
+    400038: Obj3d66-737675-483-103
+    400040: Obj3d66-737675-486-339
+    400042: Obj3d66-737675-487-932
+    400044: Obj3d66-737675-85-337
+    400046: Obj3d66-737675-97-850
+    400048: Obj3d66-737675-98-636
+    400050: Obj3d66-737675-99-498
+    400052: Plane005
+    400054: Plane006
+    400056: Rectangle009
+    400058: Rectangle010
+    400060: Rectangle011
+    400062: Rectangle012
+    400064: Text001
+    400066: "\u3000\uE813\uE811"
+    400068: "\u7EC4018"
+    400070: "\u7EC4019"
+    400072: "\u7EC4020"
+    400074: "\u7EC4023"
+    400076: "\u7EC4024"
+    400078: "\u7EC4025"
+    400080: "\u7EC4026"
+    400082: "\u7EC4027"
+    400084: //RootNode
+    400086: "\uE814\uE812"
+    2300000: Cylinder001
+    2300002: Cylinder003
+    2300004: Cylinder004
+    2300006: Cylinder005
+    2300008: Obj3d66-543182-159-200
+    2300010: Obj3d66-543182-159-201
+    2300012: Obj3d66-737675-101-199
+    2300014: Obj3d66-737675-102-328
+    2300016: Obj3d66-737675-103-788
+    2300018: Obj3d66-737675-103-789
+    2300020: Obj3d66-737675-106-908
+    2300022: Obj3d66-737675-16-150
+    2300024: Obj3d66-737675-17-216
+    2300026: Obj3d66-737675-18-716
+    2300028: Obj3d66-737675-2-017
+    2300030: Obj3d66-737675-2-16
+    2300032: Obj3d66-737675-36-646
+    2300034: Obj3d66-737675-37-643
+    2300036: Obj3d66-737675-483-103
+    2300038: Obj3d66-737675-486-339
+    2300040: Obj3d66-737675-487-932
+    2300042: Obj3d66-737675-85-337
+    2300044: Obj3d66-737675-97-850
+    2300046: Obj3d66-737675-98-636
+    2300048: Obj3d66-737675-99-498
+    2300050: Plane005
+    2300052: Plane006
+    2300054: Rectangle009
+    2300056: Rectangle010
+    2300058: Rectangle011
+    2300060: Rectangle012
+    2300062: Text001
+    3300000: Cylinder001
+    3300002: Cylinder003
+    3300004: Cylinder004
+    3300006: Cylinder005
+    3300008: Obj3d66-543182-159-200
+    3300010: Obj3d66-543182-159-201
+    3300012: Obj3d66-737675-101-199
+    3300014: Obj3d66-737675-102-328
+    3300016: Obj3d66-737675-103-788
+    3300018: Obj3d66-737675-103-789
+    3300020: Obj3d66-737675-106-908
+    3300022: Obj3d66-737675-16-150
+    3300024: Obj3d66-737675-17-216
+    3300026: Obj3d66-737675-18-716
+    3300028: Obj3d66-737675-2-017
+    3300030: Obj3d66-737675-2-16
+    3300032: Obj3d66-737675-36-646
+    3300034: Obj3d66-737675-37-643
+    3300036: Obj3d66-737675-483-103
+    3300038: Obj3d66-737675-486-339
+    3300040: Obj3d66-737675-487-932
+    3300042: Obj3d66-737675-85-337
+    3300044: Obj3d66-737675-97-850
+    3300046: Obj3d66-737675-98-636
+    3300048: Obj3d66-737675-99-498
+    3300050: Plane005
+    3300052: Plane006
+    3300054: Rectangle009
+    3300056: Rectangle010
+    3300058: Rectangle011
+    3300060: Rectangle012
+    3300062: Text001
+    4300000: Obj3d66-737675-2-16
+    4300002: Obj3d66-737675-16-150
+    4300004: Obj3d66-737675-17-216
+    4300006: Obj3d66-737675-18-716
+    4300008: Obj3d66-737675-36-646
+    4300010: Obj3d66-737675-37-643
+    4300012: Obj3d66-737675-85-337
+    4300014: Obj3d66-737675-97-850
+    4300016: Obj3d66-737675-98-636
+    4300018: Obj3d66-737675-99-498
+    4300020: Obj3d66-737675-101-199
+    4300022: Obj3d66-737675-102-328
+    4300024: Obj3d66-737675-106-908
+    4300026: Obj3d66-737675-483-103
+    4300028: Obj3d66-737675-486-339
+    4300030: Obj3d66-737675-487-932
+    4300032: Obj3d66-737675-2-017
+    4300034: Obj3d66-543182-159-200
+    4300036: Plane005
+    4300038: Obj3d66-543182-159-201
+    4300040: Plane006
+    4300042: Text001
+    4300044: Rectangle012
+    4300046: Obj3d66-737675-103-788
+    4300048: Obj3d66-737675-103-789
+    4300050: Cylinder001
+    4300052: Cylinder003
+    4300054: Cylinder004
+    4300056: Cylinder005
+    4300058: Rectangle009
+    4300060: Rectangle010
+    4300062: Rectangle011
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Obj3d66-737675-2-16
+        weight: 1
+      - path: Obj3d66-737675-2-017
+        weight: 1
+      - path: Obj3d66-737675-16-150
+        weight: 1
+      - path: Obj3d66-737675-17-216
+        weight: 1
+      - path: Obj3d66-737675-18-716
+        weight: 1
+      - path: Obj3d66-737675-36-646
+        weight: 1
+      - path: Obj3d66-737675-37-643
+        weight: 1
+      - path: Obj3d66-737675-85-337
+        weight: 1
+      - path: Obj3d66-737675-97-850
+        weight: 1
+      - path: Obj3d66-737675-98-636
+        weight: 1
+      - path: Obj3d66-737675-99-498
+        weight: 1
+      - path: Obj3d66-737675-101-199
+        weight: 1
+      - path: Obj3d66-737675-102-328
+        weight: 1
+      - path: Obj3d66-737675-106-908
+        weight: 1
+      - path: Obj3d66-737675-483-103
+        weight: 1
+      - path: Obj3d66-737675-486-339
+        weight: 1
+      - path: Obj3d66-737675-487-932
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u7EC4020"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018/Obj3d66-543182-159-200"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018/Plane005"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019/Obj3d66-543182-159-201"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019/Plane006"
+        weight: 1
+      - path: "\u7EC4023"
+        weight: 1
+      - path: "\u7EC4023/Rectangle012"
+        weight: 1
+      - path: "\u7EC4023/Text001"
+        weight: 1
+      - path: "\u7EC4025"
+        weight: 1
+      - path: "\u7EC4025/Obj3d66-737675-103-788"
+        weight: 1
+      - path: "\u7EC4025/Obj3d66-737675-103-789"
+        weight: 1
+      - path: "\u7EC4026"
+        weight: 1
+      - path: "\u7EC4026/Cylinder001"
+        weight: 1
+      - path: "\u7EC4026/Cylinder003"
+        weight: 1
+      - path: "\u7EC4026/Cylinder004"
+        weight: 1
+      - path: "\u7EC4026/Cylinder005"
+        weight: 1
+      - path: "\u7EC4027"
+        weight: 1
+      - path: "\u7EC4027/Rectangle009"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024/Rectangle010"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024/Rectangle011"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Obj3d66-737675-2-16
+        weight: 1
+      - path: Obj3d66-737675-2-017
+        weight: 1
+      - path: Obj3d66-737675-16-150
+        weight: 1
+      - path: Obj3d66-737675-17-216
+        weight: 1
+      - path: Obj3d66-737675-18-716
+        weight: 1
+      - path: Obj3d66-737675-36-646
+        weight: 1
+      - path: Obj3d66-737675-37-643
+        weight: 1
+      - path: Obj3d66-737675-85-337
+        weight: 1
+      - path: Obj3d66-737675-97-850
+        weight: 1
+      - path: Obj3d66-737675-98-636
+        weight: 1
+      - path: Obj3d66-737675-99-498
+        weight: 1
+      - path: Obj3d66-737675-101-199
+        weight: 1
+      - path: Obj3d66-737675-102-328
+        weight: 1
+      - path: Obj3d66-737675-106-908
+        weight: 1
+      - path: Obj3d66-737675-483-103
+        weight: 1
+      - path: Obj3d66-737675-486-339
+        weight: 1
+      - path: Obj3d66-737675-487-932
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u7EC4020"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018/Obj3d66-543182-159-200"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4018/Plane005"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019/Obj3d66-543182-159-201"
+        weight: 1
+      - path: "\u7EC4020/\u7EC4019/Plane006"
+        weight: 1
+      - path: "\u7EC4023"
+        weight: 1
+      - path: "\u7EC4023/Rectangle012"
+        weight: 1
+      - path: "\u7EC4023/Text001"
+        weight: 1
+      - path: "\u7EC4025"
+        weight: 1
+      - path: "\u7EC4025/Obj3d66-737675-103-788"
+        weight: 1
+      - path: "\u7EC4025/Obj3d66-737675-103-789"
+        weight: 1
+      - path: "\u7EC4026"
+        weight: 1
+      - path: "\u7EC4026/Cylinder001"
+        weight: 1
+      - path: "\u7EC4026/Cylinder003"
+        weight: 1
+      - path: "\u7EC4026/Cylinder004"
+        weight: 1
+      - path: "\u7EC4026/Cylinder005"
+        weight: 1
+      - path: "\u7EC4027"
+        weight: 1
+      - path: "\u7EC4027/Rectangle009"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024/Rectangle010"
+        weight: 1
+      - path: "\u7EC4027/\u7EC4024/Rectangle011"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 5ae04b4b8fa51044297d5afc577e0226
+timeCreated: 1554731154
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box003
+    100002: Box004
+    100004: Box006
+    100006: Box007
+    100008: Box009
+    100010: Box014
+    100012: Box015
+    100014: Box016
+    100016: Box017
+    100018: NGon001
+    100020: NGon002
+    100022: NGon003
+    100024: NGon004
+    100026: Obj3d66-543182-75-74
+    100028: Rectangle037
+    100030: Text001
+    100032: "\u3000\uE813\uE811"
+    100034: //RootNode
+    100036: "\u5BF9\u8C61001"
+    100038: "\u5BF9\u8C61450"
+    100040: "\u7EC4080"
+    100042: "\u7EC4580"
+    100044: "\u7EC4581"
+    100046: "\uE814\uE812"
+    100048: Box008
+    100050: "\u5BF9\u8C61451"
+    100052: "\u5BF9\u8C61452"
+    100054: "\u5BF9\u8C61453"
+    100056: "\u5BF9\u8C61454"
+    100058: "\u5BF9\u8C61455"
+    100060: "\u7EC4001"
+    400000: Box003
+    400002: Box004
+    400004: Box006
+    400006: Box007
+    400008: Box009
+    400010: Box014
+    400012: Box015
+    400014: Box016
+    400016: Box017
+    400018: NGon001
+    400020: NGon002
+    400022: NGon003
+    400024: NGon004
+    400026: Obj3d66-543182-75-74
+    400028: Rectangle037
+    400030: Text001
+    400032: "\u3000\uE813\uE811"
+    400034: //RootNode
+    400036: "\u5BF9\u8C61001"
+    400038: "\u5BF9\u8C61450"
+    400040: "\u7EC4080"
+    400042: "\u7EC4580"
+    400044: "\u7EC4581"
+    400046: "\uE814\uE812"
+    400048: Box008
+    400050: "\u5BF9\u8C61451"
+    400052: "\u5BF9\u8C61452"
+    400054: "\u5BF9\u8C61453"
+    400056: "\u5BF9\u8C61454"
+    400058: "\u5BF9\u8C61455"
+    400060: "\u7EC4001"
+    2300000: Box003
+    2300002: Box004
+    2300004: Box006
+    2300006: Box007
+    2300008: Box009
+    2300010: Box014
+    2300012: Box015
+    2300014: Box016
+    2300016: Box017
+    2300018: NGon001
+    2300020: NGon002
+    2300022: NGon003
+    2300024: NGon004
+    2300026: Obj3d66-543182-75-74
+    2300028: Rectangle037
+    2300030: Text001
+    2300032: "\u5BF9\u8C61001"
+    2300034: "\u5BF9\u8C61450"
+    2300036: Box008
+    2300038: "\u5BF9\u8C61451"
+    2300040: "\u5BF9\u8C61452"
+    2300042: "\u5BF9\u8C61453"
+    2300044: "\u5BF9\u8C61454"
+    2300046: "\u5BF9\u8C61455"
+    3300000: Box003
+    3300002: Box004
+    3300004: Box006
+    3300006: Box007
+    3300008: Box009
+    3300010: Box014
+    3300012: Box015
+    3300014: Box016
+    3300016: Box017
+    3300018: NGon001
+    3300020: NGon002
+    3300022: NGon003
+    3300024: NGon004
+    3300026: Obj3d66-543182-75-74
+    3300028: Rectangle037
+    3300030: Text001
+    3300032: "\u5BF9\u8C61001"
+    3300034: "\u5BF9\u8C61450"
+    3300036: Box008
+    3300038: "\u5BF9\u8C61451"
+    3300040: "\u5BF9\u8C61452"
+    3300042: "\u5BF9\u8C61453"
+    3300044: "\u5BF9\u8C61454"
+    3300046: "\u5BF9\u8C61455"
+    4300000: Box003
+    4300002: "\u5BF9\u8C61001"
+    4300004: Box004
+    4300006: Box006
+    4300008: Box007
+    4300010: Rectangle037
+    4300012: Box016
+    4300014: Box017
+    4300016: Box015
+    4300018: Box014
+    4300020: NGon004
+    4300022: Text001
+    4300024: NGon002
+    4300026: NGon001
+    4300028: NGon003
+    4300030: Obj3d66-543182-75-74
+    4300032: Box009
+    4300034: "\u5BF9\u8C61450"
+    4300036: Box008
+    4300038: "\u5BF9\u8C61451"
+    4300040: "\u5BF9\u8C61452"
+    4300042: "\u5BF9\u8C61453"
+    4300044: "\u5BF9\u8C61454"
+    4300046: "\u5BF9\u8C61455"
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Obj3d66-543182-75-74
+        weight: 1
+      - path: Rectangle037
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61001"
+        weight: 1
+      - path: "\u7EC4080"
+        weight: 1
+      - path: "\u7EC4080/Box014"
+        weight: 1
+      - path: "\u7EC4080/Box015"
+        weight: 1
+      - path: "\u7EC4080/Box016"
+        weight: 1
+      - path: "\u7EC4080/Box017"
+        weight: 1
+      - path: "\u7EC4580"
+        weight: 1
+      - path: "\u7EC4580/NGon001"
+        weight: 1
+      - path: "\u7EC4580/NGon002"
+        weight: 1
+      - path: "\u7EC4580/NGon003"
+        weight: 1
+      - path: "\u7EC4580/NGon004"
+        weight: 1
+      - path: "\u7EC4580/Text001"
+        weight: 1
+      - path: "\u7EC4581"
+        weight: 1
+      - path: "\u7EC4581/Box009"
+        weight: 1
+      - path: "\u7EC4581/\u5BF9\u8C61450"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Obj3d66-543182-75-74
+        weight: 1
+      - path: Rectangle037
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61001"
+        weight: 1
+      - path: "\u7EC4080"
+        weight: 1
+      - path: "\u7EC4080/Box014"
+        weight: 1
+      - path: "\u7EC4080/Box015"
+        weight: 1
+      - path: "\u7EC4080/Box016"
+        weight: 1
+      - path: "\u7EC4080/Box017"
+        weight: 1
+      - path: "\u7EC4580"
+        weight: 1
+      - path: "\u7EC4580/NGon001"
+        weight: 1
+      - path: "\u7EC4580/NGon002"
+        weight: 1
+      - path: "\u7EC4580/NGon003"
+        weight: 1
+      - path: "\u7EC4580/NGon004"
+        weight: 1
+      - path: "\u7EC4580/Text001"
+        weight: 1
+      - path: "\u7EC4581"
+        weight: 1
+      - path: "\u7EC4581/Box009"
+        weight: 1
+      - path: "\u7EC4581/\u5BF9\u8C61450"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

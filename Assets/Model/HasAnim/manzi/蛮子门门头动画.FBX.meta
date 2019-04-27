@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: f1d5a88485a78da479f640d758363840
+timeCreated: 1554731187
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "\u3000\uE813\uE811"
+    100002: "\u5BF9\u8C61010"
+    100004: "\u5BF9\u8C61011"
+    100006: "\u5BF9\u8C61012"
+    100008: "\u5BF9\u8C61015"
+    100010: "\u5BF9\u8C61016"
+    100012: "\u5BF9\u8C61017"
+    100014: "\u5BF9\u8C61018"
+    100016: "\u5BF9\u8C61019"
+    100018: "\u5BF9\u8C61020"
+    100020: "\u5BF9\u8C61021"
+    100022: "\u5BF9\u8C61022"
+    100024: "\u672801_\u9890\u5E74\u5802"
+    100026: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    100028: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    100030: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+    100032: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+    100034: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+    100036: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+    100038: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+    100040: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+    100042: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+    100044: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+    100046: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+    100048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+    100050: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+    100052: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+    100054: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    100056: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+    100058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+    100060: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+    100062: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+    100064: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+    100066: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+    100068: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+    100070: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+    100072: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+    100074: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+    100076: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+    100078: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+    100080: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+    100082: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+    100084: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    100086: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    100088: "\u7EC4001"
+    100090: "\u7EC4002"
+    100092: "\u7EC4003"
+    100094: //RootNode
+    100096: "\uE814\uE812"
+    400000: "\u3000\uE813\uE811"
+    400002: "\u5BF9\u8C61010"
+    400004: "\u5BF9\u8C61011"
+    400006: "\u5BF9\u8C61012"
+    400008: "\u5BF9\u8C61015"
+    400010: "\u5BF9\u8C61016"
+    400012: "\u5BF9\u8C61017"
+    400014: "\u5BF9\u8C61018"
+    400016: "\u5BF9\u8C61019"
+    400018: "\u5BF9\u8C61020"
+    400020: "\u5BF9\u8C61021"
+    400022: "\u5BF9\u8C61022"
+    400024: "\u672801_\u9890\u5E74\u5802"
+    400026: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    400028: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    400030: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+    400032: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+    400034: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+    400036: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+    400038: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+    400040: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+    400042: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+    400044: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+    400046: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+    400048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+    400050: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+    400052: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+    400054: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    400056: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+    400058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+    400060: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+    400062: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+    400064: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+    400066: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+    400068: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+    400070: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+    400072: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+    400074: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+    400076: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+    400078: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+    400080: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+    400082: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+    400084: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    400086: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    400088: "\u7EC4001"
+    400090: "\u7EC4002"
+    400092: "\u7EC4003"
+    400094: //RootNode
+    400096: "\uE814\uE812"
+    2300000: "\u5BF9\u8C61010"
+    2300002: "\u5BF9\u8C61011"
+    2300004: "\u5BF9\u8C61012"
+    2300006: "\u5BF9\u8C61015"
+    2300008: "\u5BF9\u8C61016"
+    2300010: "\u5BF9\u8C61017"
+    2300012: "\u5BF9\u8C61018"
+    2300014: "\u5BF9\u8C61019"
+    2300016: "\u5BF9\u8C61020"
+    2300018: "\u5BF9\u8C61021"
+    2300020: "\u5BF9\u8C61022"
+    2300022: "\u672801_\u9890\u5E74\u5802"
+    2300024: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    2300026: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    2300028: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+    2300030: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+    2300032: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+    2300034: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+    2300036: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+    2300038: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+    2300040: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+    2300042: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+    2300044: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+    2300046: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+    2300048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+    2300050: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+    2300052: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    2300054: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+    2300056: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+    2300058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+    2300060: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+    2300062: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+    2300064: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+    2300066: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+    2300068: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+    2300070: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+    2300072: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+    2300074: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+    2300076: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+    2300078: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+    2300080: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+    2300082: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    2300084: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    3300000: "\u5BF9\u8C61010"
+    3300002: "\u5BF9\u8C61011"
+    3300004: "\u5BF9\u8C61012"
+    3300006: "\u5BF9\u8C61015"
+    3300008: "\u5BF9\u8C61016"
+    3300010: "\u5BF9\u8C61017"
+    3300012: "\u5BF9\u8C61018"
+    3300014: "\u5BF9\u8C61019"
+    3300016: "\u5BF9\u8C61020"
+    3300018: "\u5BF9\u8C61021"
+    3300020: "\u5BF9\u8C61022"
+    3300022: "\u672801_\u9890\u5E74\u5802"
+    3300024: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    3300026: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    3300028: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+    3300030: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+    3300032: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+    3300034: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+    3300036: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+    3300038: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+    3300040: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+    3300042: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+    3300044: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+    3300046: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+    3300048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+    3300050: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+    3300052: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    3300054: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+    3300056: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+    3300058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+    3300060: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+    3300062: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+    3300064: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+    3300066: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+    3300068: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+    3300070: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+    3300072: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+    3300074: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+    3300076: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+    3300078: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+    3300080: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+    3300082: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    3300084: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300000: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300002: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300004: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    4300006: "\u672801_\u9890\u5E74\u5802"
+    4300008: "\u5BF9\u8C61012"
+    4300010: "\u5BF9\u8C61015"
+    4300012: "\u5BF9\u8C61016"
+    4300014: "\u5BF9\u8C61017"
+    4300016: "\u5BF9\u8C61018"
+    4300018: "\u5BF9\u8C61019"
+    4300020: "\u5BF9\u8C61020"
+    4300022: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    4300024: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+    4300026: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+    4300028: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+    4300030: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+    4300032: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+    4300034: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+    4300036: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+    4300038: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+    4300040: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+    4300042: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+    4300044: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+    4300046: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+    4300048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+    4300050: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+    4300052: "\u5BF9\u8C61010"
+    4300054: "\u5BF9\u8C61011"
+    4300056: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+    4300058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+    4300060: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+    4300062: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+    4300064: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+    4300066: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+    4300068: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+    4300070: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+    4300072: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+    4300074: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+    4300076: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+    4300078: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300080: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+    4300082: "\u5BF9\u8C61021"
+    4300084: "\u5BF9\u8C61022"
+    7400000: Take 001
+    7400002: rewind
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61012"
+        weight: 1
+      - path: "\u5BF9\u8C61015"
+        weight: 1
+      - path: "\u5BF9\u8C61016"
+        weight: 1
+      - path: "\u5BF9\u8C61017"
+        weight: 1
+      - path: "\u5BF9\u8C61018"
+        weight: 1
+      - path: "\u5BF9\u8C61019"
+        weight: 1
+      - path: "\u5BF9\u8C61020"
+        weight: 1
+      - path: "\u5BF9\u8C61021"
+        weight: 1
+      - path: "\u5BF9\u8C61022"
+        weight: 1
+      - path: "\u672801_\u9890\u5E74\u5802"
+        weight: 1
+      - path: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+        weight: 1
+      - path: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EC4003"
+        weight: 1
+      - path: "\u7EC4003/\u5BF9\u8C61010"
+        weight: 1
+      - path: "\u7EC4003/\u5BF9\u8C61011"
+        weight: 1
+      - path: "\u7EC4003/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+        weight: 1
+      - path: "\u7EC4003/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rewind
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "\u3000\uE813\uE811"
+        weight: 1
+      - path: "\u5BF9\u8C61012"
+        weight: 1
+      - path: "\u5BF9\u8C61015"
+        weight: 1
+      - path: "\u5BF9\u8C61016"
+        weight: 1
+      - path: "\u5BF9\u8C61017"
+        weight: 1
+      - path: "\u5BF9\u8C61018"
+        weight: 1
+      - path: "\u5BF9\u8C61019"
+        weight: 1
+      - path: "\u5BF9\u8C61020"
+        weight: 1
+      - path: "\u5BF9\u8C61021"
+        weight: 1
+      - path: "\u5BF9\u8C61022"
+        weight: 1
+      - path: "\u672801_\u9890\u5E74\u5802"
+        weight: 1
+      - path: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+        weight: 1
+      - path: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EC4003"
+        weight: 1
+      - path: "\u7EC4003/\u5BF9\u8C61010"
+        weight: 1
+      - path: "\u7EC4003/\u5BF9\u8C61011"
+        weight: 1
+      - path: "\u7EC4003/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8034"
+        weight: 1
+      - path: "\u7EC4003/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8044"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8007"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8008"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8009"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8010"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8011"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8012"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8013"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8014"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8015"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8017"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8018"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4001/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8019"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8021"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8022"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8023"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8024"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8025"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8026"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8027"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8028"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8029"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8030"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8031"
+        weight: 1
+      - path: "\u7EC4003/\u7EC4002/\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8032"
+        weight: 1
+      - path: "\uE814\uE812"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

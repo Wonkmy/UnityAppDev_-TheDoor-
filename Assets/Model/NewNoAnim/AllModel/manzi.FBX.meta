@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: e34ddeb340f212541b1154679594e7ff
+timeCreated: 1555075771
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder002
+    100002: Group-720568-6-336
+    100004: Group-720568-6-337
+    100006: //RootNode
+    100008: Obj3d66-543182-190-101
+    100010: Obj3d66-543182-190-102
+    100012: Obj3d66-694109-1-920
+    100014: Obj3d66-694109-3-532
+    100016: Obj3d66-694109-373-191
+    100018: Obj3d66-720568-64-988
+    100020: Obj3d66-720568-64-989
+    100022: Obj3d66-720568-65-371
+    100024: Obj3d66-720568-65-372
+    100026: Obj3d66-720568-66-776
+    100028: Obj3d66-720568-66-777
+    100030: Obj3d66-720568-68-004
+    100032: Obj3d66-720568-68-005
+    100034: Plane001
+    100036: Rectangle018
+    100038: Rectangle022
+    100040: Rectangle023
+    100042: Text001
+    100044: "\u3000\uE813\uE811"
+    100046: "\u5BF9\u8C61002"
+    100048: "\u5BF9\u8C61010"
+    100050: "\u5BF9\u8C61011"
+    100052: "\u5BF9\u8C61012"
+    100054: "\u5BF9\u8C61014"
+    100056: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    100058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    100060: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    100062: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    100064: "\u7EC4002"
+    100066: "\u7EC4003"
+    100068: "\u7EC4004"
+    100070: "\u7EC4007"
+    100072: "\uE814\uE812"
+    400000: Cylinder002
+    400002: Group-720568-6-336
+    400004: Group-720568-6-337
+    400006: //RootNode
+    400008: Obj3d66-543182-190-101
+    400010: Obj3d66-543182-190-102
+    400012: Obj3d66-694109-1-920
+    400014: Obj3d66-694109-3-532
+    400016: Obj3d66-694109-373-191
+    400018: Obj3d66-720568-64-988
+    400020: Obj3d66-720568-64-989
+    400022: Obj3d66-720568-65-371
+    400024: Obj3d66-720568-65-372
+    400026: Obj3d66-720568-66-776
+    400028: Obj3d66-720568-66-777
+    400030: Obj3d66-720568-68-004
+    400032: Obj3d66-720568-68-005
+    400034: Plane001
+    400036: Rectangle018
+    400038: Rectangle022
+    400040: Rectangle023
+    400042: Text001
+    400044: "\u3000\uE813\uE811"
+    400046: "\u5BF9\u8C61002"
+    400048: "\u5BF9\u8C61010"
+    400050: "\u5BF9\u8C61011"
+    400052: "\u5BF9\u8C61012"
+    400054: "\u5BF9\u8C61014"
+    400056: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    400058: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    400060: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    400062: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    400064: "\u7EC4002"
+    400066: "\u7EC4003"
+    400068: "\u7EC4004"
+    400070: "\u7EC4007"
+    400072: "\uE814\uE812"
+    2300000: Cylinder002
+    2300002: Obj3d66-543182-190-101
+    2300004: Obj3d66-543182-190-102
+    2300006: Obj3d66-694109-1-920
+    2300008: Obj3d66-694109-3-532
+    2300010: Obj3d66-694109-373-191
+    2300012: Obj3d66-720568-64-988
+    2300014: Obj3d66-720568-64-989
+    2300016: Obj3d66-720568-65-371
+    2300018: Obj3d66-720568-65-372
+    2300020: Obj3d66-720568-66-776
+    2300022: Obj3d66-720568-66-777
+    2300024: Obj3d66-720568-68-004
+    2300026: Obj3d66-720568-68-005
+    2300028: Plane001
+    2300030: Rectangle018
+    2300032: Rectangle022
+    2300034: Rectangle023
+    2300036: Text001
+    2300038: "\u5BF9\u8C61002"
+    2300040: "\u5BF9\u8C61010"
+    2300042: "\u5BF9\u8C61011"
+    2300044: "\u5BF9\u8C61012"
+    2300046: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    2300048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    2300050: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    2300052: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    3300000: Cylinder002
+    3300002: Obj3d66-543182-190-101
+    3300004: Obj3d66-543182-190-102
+    3300006: Obj3d66-694109-1-920
+    3300008: Obj3d66-694109-3-532
+    3300010: Obj3d66-694109-373-191
+    3300012: Obj3d66-720568-64-988
+    3300014: Obj3d66-720568-64-989
+    3300016: Obj3d66-720568-65-371
+    3300018: Obj3d66-720568-65-372
+    3300020: Obj3d66-720568-66-776
+    3300022: Obj3d66-720568-66-777
+    3300024: Obj3d66-720568-68-004
+    3300026: Obj3d66-720568-68-005
+    3300028: Plane001
+    3300030: Rectangle018
+    3300032: Rectangle022
+    3300034: Rectangle023
+    3300036: Text001
+    3300038: "\u5BF9\u8C61002"
+    3300040: "\u5BF9\u8C61010"
+    3300042: "\u5BF9\u8C61011"
+    3300044: "\u5BF9\u8C61012"
+    3300046: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    3300048: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+    3300050: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    3300052: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300000: "\u74E602_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300002: "\u7EA2\u6F0601_\u4E30\u6CFD\u56ED\u5927\u95E8"
+    4300004: "\u6DF7\u6CE5\u571F01_\u83CA\u9999\u4E66\u5C4B"
+    4300006: Cylinder002
+    4300008: "\u5BF9\u8C61002"
+    4300010: "\u5BF9\u8C61010"
+    4300012: "\u5BF9\u8C61011"
+    4300014: "\u5BF9\u8C61012"
+    4300016: Obj3d66-694109-1-920
+    4300018: Obj3d66-694109-3-532
+    4300020: Obj3d66-543182-190-101
+    4300022: Obj3d66-543182-190-102
+    4300024: Rectangle022
+    4300026: Text001
+    4300028: Rectangle023
+    4300030: Plane001
+    4300032: Obj3d66-720568-68-005
+    4300034: Obj3d66-720568-65-372
+    4300036: Obj3d66-720568-66-777
+    4300038: Obj3d66-720568-64-989
+    4300040: Obj3d66-720568-65-371
+    4300042: Obj3d66-720568-66-776
+    4300044: Obj3d66-720568-64-988
+    4300046: Obj3d66-720568-68-004
+    4300048: Rectangle018
+    4300050: Obj3d66-694109-373-191
+    4300052: "\u74E601_\u4E30\u6CFD\u56ED\u5927\u95E8020"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
